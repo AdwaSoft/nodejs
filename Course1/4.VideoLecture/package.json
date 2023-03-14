@@ -1,0 +1,15 @@
+{
+  "name": "4.videolecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buitinModule.js",
+  "scripts": {
+    "start": "node buitinModules",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "builtin-modules": "^3.3.0"
+  }
+}

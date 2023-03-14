@@ -1,0 +1,26 @@
+[
+    {
+        "name": "melketsedek",
+        "company" :"AdwaBSP",
+        "role": "Developer and Owner"
+        
+    },
+    {
+        "name": "David",
+        "company" :"AdwaBSP",
+        "role": "Front End Developer"
+        
+    },
+    {
+        "name": "Mike",
+        "company" :"AdwaBSP",
+        "role": "BackEnd Developer"
+        
+    },
+    {
+        "name": "Bety",
+        "company" :"AdwaBSP",
+        "role": "DevOps Engineer"
+        
+    }
+]
